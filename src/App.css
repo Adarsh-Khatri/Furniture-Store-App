@@ -1,0 +1,31 @@
+.active-product-image {
+  outline: 200px solid red;
+}
+
+.product-image {
+  width: 100%;
+  height: 100%;
+}
+
+.new-product-container {
+  width: 40vw;
+  height: 60vh;
+}
+
+.new-product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.not-found-parent {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.not-found-image {
+  width: 100%;
+  height: 100%;
+  object-position: 0 -150px;
+}
